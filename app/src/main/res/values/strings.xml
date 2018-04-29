@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MyReminder</string>
+
+
+    <string name="title_activity_add_by_excel"> Thêm bằng file Excel</string>
+    <string name="title_activity_delete_all">Xóa hết </string>
+
+    <string name="title_activity_add_reminder"> Thêm Nhắc Nhở </string>
+    <string name="title_activity_edit_reminder"> Sửa Nhắc Nhở </string>
+    <string name="title_activity_add_from_excel"> Thêm từ file Excel</string>
+
+
+    <string name="add_reminder">Reminder</string>
+    <string name="details"> Chi tiết </string>
+    <string name="date"> Ngày </string>
+    <string name="time"> Giờ </string>
+    <string name="repeat"> Lần lặp </string>
+    <string name="repeat_off"> Tắt </string>
+    <string name="repeat_no"> Số lần lặp </string>
+    <string name="repeat_type"> Đơn vị lặp </string>
+
+    <string name="action_discard_reminder">Discard Reminder</string>
+    <string name="action_save_reminder">Save Reminder</string>
+    <string name="action_back_previous">Trở về thư mục trước</string>
+
+    <string name="action_add_by_excel"> Thêm bằng file Excel</string>
+    <string name="action_delete_all">Xóa hết </string>
+
+    <string name="no_reminders"> Bạn chưa có nhắc nhở nào !</string>
+
+
+    <string name="icon_date_description">Chọn ngày nhắc lịch</string>
+    <string name="icon_time_description">Chọn giờ nhắc lịch</string>
+    <string name="icon_repeat_description">Số lần lặp lại của mỗi Reminder</string>
+
+</resources>

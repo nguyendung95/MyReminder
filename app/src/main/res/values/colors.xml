@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#228B22</color>
+    <color name="colorPrimaryDark">#114711</color>
+    <color name="colorAccent">#e64629</color>
+
+    <color name="darkSlateGray">#2F4F4F</color>
+    <color name="lavenderBlush">#FFF0F5</color>
+    <color name="colorText">#263238</color>
+    <color name="primaryText">#546e7a</color>
+    <color name="secondaryText">#888888</color>
+    <color name="disabledText">#ffffff</color>
+
+
+    <color name="toolbar_title">#ffffff</color>
+    <color name="primary">#37474f</color>
+
+    <color name="accent">#78909c</color>
+    <color name="control_normal">#888888</color>
+    <color name="fab_pressed">#546e7a</color>
+    </resources>
